@@ -32,5 +32,5 @@ end
 
 def retreive_last_element_from_array(array)
 
-  array[-1]
+  array[array-1]
 end
