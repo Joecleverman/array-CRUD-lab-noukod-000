@@ -1,5 +1,5 @@
 def create_an_empty_array
-  []
+  []  
 end
 
 def create_an_array
@@ -31,6 +31,6 @@ def retreive_first_element_from_array(array)
 end
 
 def retreive_last_element_from_array(array)
-
-  array[array-1]
+  Joe = array.count
+  array[Joe-1]
 end
